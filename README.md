@@ -26,7 +26,7 @@ I see every project as a fusion of **logic, art, and intuition**.
 
 ### 💡 What I Love Creating  
 - 🧬 AI personalities that think with emotion  
-- 💘 Interactive poetic websites (like *وائل ♥ روان*)  
+- 💘 Interactive poetic websites. 
 - 🧩 Learning tools that make study feel effortless  
 - 🖋️ Bilingual poetry blending code and language  
 
